@@ -1,19 +1,3 @@
-# Memory Pattern Game 🧠
+Memory Pattern Game 🧠
 
-A minimalist "Simon Says" style memory game. Observe a sequence of glowing boxes and correctly replicate the pattern to progress!
-
-## 🌟 Features
-
-- Visually engaging minimalist design
-- Increasingly difficult memory sequences
-- Responsive and dynamic animations
-
-## 🛠️ Technologies Used
-
-- HTML5
-- CSS3
-- Vanilla JavaScript
-
-## 🚀 Getting Started
-
-Open `index.html` in your browser to start challenging your memory!
+Memory Pattern Game is a browser-based memory challenge inspired by classic pattern-recognition games. Players are presented with a sequence of highlighted boxes that briefly illuminate in a specific order, and their objective is to accurately reproduce the pattern from memory. As the game progresses, the sequences become longer and more complex, increasing the level of difficulty and testing the player's concentration, short-term memory, and reaction skills. Featuring a clean and minimalist interface, smooth animations, and responsive gameplay, the project offers an engaging way to practice memory retention while enjoying a simple yet challenging experience. The game is built using HTML, CSS, and JavaScript, allowing it to run directly in modern web browsers without any external dependencies.
